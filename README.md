@@ -8,7 +8,8 @@ Most of the content is in the 'imports' folder so that we can so serverside rend
 rundown on what's included.
 
 For an in-depth example of how to use Meteor with React see
-[React-ive Meteor](https://github.com/AdamBrodzinski/react-ive-meteor). For flux support see the [Flux Leaderboard](https://github.com/AdamBrodzinski/meteor-flux-leaderboard) example app.
+[React-ive Meteor](https://github.com/AdamBrodzinski/react-ive-meteor).
+For flux support see the [Flux Leaderboard](https://github.com/AdamBrodzinski/meteor-flux-leaderboard) example app.
 
 #### APIs & Packages
 - [Session](https://docs.meteor.com/api/session.html)
